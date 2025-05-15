@@ -5,23 +5,22 @@
 - writing maths exam
 - english presentation
 - interacting with people
-- liked activities in english
+- liked activities in english sessions
 - experienced and liked the panel setting
 - learned how to speak in public
-- liked the way the taught or delivered us infomation
-- funny moment
-- told about something her wife and wife's friends dob
-- maths test names
+- liked the way they taught or delivered us information
+- told something about her wife and wife's friends dob
+- math tests names
 - had food with shyam sir
-- sendoff for amrin and shyam sir.
-- playing carrom with amrin mam
-- sukanya mam once scolded for not to complete home work;
+- sendoff for amreen mam, sukanya mam and shyam sir.
+- playing carrom with amreen mam
+- sukanya mam once scolded for not completing home work;
 
-## outbond-1
+## outbound-1
 
-- took more time to complete spider-web activites
-- entually we cracked the traffic-jam
-- bosted our confidence
+- took more time to complete spider-web activite
+- eventually we cracked the traffic-jam
+- boosted our confidence
 - made us comfortable with our teammates
 - got to understand importance of collabration
 - not taking things personally
@@ -37,18 +36,17 @@
 
 ## phase 3 -> coding
 
-- wrong way to use chatgpt
-- had session how to make things easy using chatgpt
-- learned reading code of other.
-- self assignment
+- wrong usage of chatgpt
+- learned reading others code
+- self assignments
 - found our creative side
 - mistakes in variables names
-- faced diff to sytax for programming language
-- assignment report
-- tests
+- assignment reports
+- tests with time limits
 
-## outbond-2
+## outbound-2
 
+- try fast and fail fast
 - enjoyed gaint swing activity
 - enjoyed and shown trust to partner during friendship ladder activity
 - exprienced how to deal with client. during the tower bulding activity
@@ -60,13 +58,13 @@
 
 ## game project
 
-- enjoyed when other build got failed
+- enjoyed when others build failed
 - learned the value of using tdd
-- got to know about other
-- learned how to resolve conflict in team / how to work in team
-- contributing in team
-- try fast and fail fast
+- got to know about others
+- learned how to resolve conflicts in team / how to work in team
+- contribution in the team project
 - had learned lot about technolgy during project {like svg}
+- came to office some saturdays for working on projects and for showcases. metors bought snacks for us on those saturdays
 
 ## advent of code
 
@@ -75,42 +73,54 @@
 ## games ->
 
 - playing cricket with mentors and seniors
-- cards game
-- mafia game
+- card and board games
+- playing mafia
 
 ## wow!
 
-- while got mac
-- pressing fire alarm btutton
-- zentangle activities
-- went music museum
+- taking mac book to PG
+- pressing fire alarm button
+- zentangle workshop
+- went to Indian music experience museum
 - played game for new year.
 - got gift for diwali
 
-## sad movement
+## sad moment
 
-- while dhiraj bhiya left
+- while dheeraj bhiya left
 - when someone got terminated
 
 ## didn't like
 
 - pg food
 
-## ghanesh sir
+## ganesh sir
 
 - feedback and getting color code
-- termination letter
+- termination letters
 - sessions motivated alot to stand back and continue work
-- reflection sessions helped to know about yourself
+- reflection sessions helped to know about ourself
 
 ## all situations where did we support eachother
 
-- while everyone were getting illed one after other.
+- while some of our peers got ill and admitted in hospital
 
 ## mentors
 
 - frequent feedback helped to be in right direction to grow
-- offered personal and professional support to stay manged in personally and
+- offered personal and professional support to stay managed personally and
   professionally
-- helped us to built good coding tast and understand the value of process
+- helped us building good coding taste and understand the value of process
 - agile
+
+## workshops
+
+- the very first workshop in the first week of july, helped us to have a vision for the next 18 months that are going to be spent
+- And everytime when Ganesh sir comes to bangalore, we used to have different kind of sessions like wow an ouch moments, giving feedback to mentors,...
+- The workshop about the cliffton strengths helped us to understand better about ourself.
+- And the last worshop before going to projects really helped us to know how to be in teams, how to face challenges,...
+
+## weekends
+
+- watched movies some of the fridays
+- some documentaries too
