@@ -105,7 +105,7 @@
 ## all situations where did we support eachother
 
 - while some of our peers got ill and admitted in hospital
-- during 
+- during
 
 ## mentors
 
@@ -142,4 +142,3 @@
 - Pair with juniors when possible.
 - Share project learnings in internal forums or retros.
 - Continue being part of the STEP culture we benefited from.
-
