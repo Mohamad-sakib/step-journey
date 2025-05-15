@@ -65,6 +65,7 @@
 - contribution in the team project
 - had learned lot about technolgy during project {like svg}
 - came to office some saturdays for working on projects and for showcases. metors bought snacks for us on those saturdays
+- mentors and seniors acted as clients during our showcases
 
 ## advent of code
 
@@ -88,11 +89,11 @@
 ## sad moment
 
 - while dheeraj bhiya left
-- when someone got terminated
+- when some of our peers got terminated
 
 ## didn't like
 
-- pg food
+- pg food, learnt adaptability
 
 ## ganesh sir
 
@@ -104,6 +105,7 @@
 ## all situations where did we support eachother
 
 - while some of our peers got ill and admitted in hospital
+- during 
 
 ## mentors
 
@@ -124,3 +126,20 @@
 
 - watched movies some of the fridays
 - some documentaries too
+
+## forward-looking plan
+
+- Starting from next month, we’ll be joining real ThoughtWorks project teams. This is our biggest opportunity yet—to apply everything we’ve learned so far in a real-world setting.
+- Pair programming and mobbing with experienced devs.
+- Observe client interactions and delivery practices.
+- Contribute to production codebases under guidance.
+- We are in a 7-month probation period. This isn’t just a technical test—it’s about professionalism, ownership, and growth
+- Consistently contribute quality code.
+- Actively participate in team ceremonies (standups, retros, sprint planning).
+- Communicate clearly with teammates, leads, and clients.
+- Take feedback and show improvement visibly.
+- As we grow, we want to also support others in the STEP community.
+- Pair with juniors when possible.
+- Share project learnings in internal forums or retros.
+- Continue being part of the STEP culture we benefited from.
+
