@@ -22,11 +22,15 @@
 
 But every exciting journey comes with its fair share of challenges…
 
-- Not everything came easy. There were moments when we felt stuck, confused, or just plain exhausted. Some of us struggled through math exams or English presentations. The spider-web activity during outbound took forever. Sprint nights were long, and coding tests with time limits pushed us to the edge.
+“STEP wasn’t easy. In fact, some of the most powerful moments came from the toughest ones.
 
-- There were mistakes too—using ChatGPT the wrong way, naming variables poorly, or just not understanding what the code was doing. Bootcamp felt like it was moving too fast. Sometimes we faced tough feedback, and yes, some of our peers didn’t make it through. That hit hard.
+We still remember how frustrated We felt during the spider-web and traffic-jam activities — physically simple, but mentally exhausting. It taught me that sometimes, the real challenge isn’t in the task — it’s in staying calm with your team.
 
-- Even small things—like missing a homework deadline or dealing with PG food—tested our patience. But these challenges taught us resilience. We learned that failure isn’t final—it’s just feedback. And through frustration, we found a deeper kind of learning.
+Coding brought its own set of struggles. We made mistakes with variable names, misused ChatGPT, and felt completely lost during some time-bound tests.
+
+There were personal challenges too. Getting scolded by Sukanya Ma’am for not doing homework felt bad, but it made me realize: growth doesn’t happen without accountability.
+
+STEP wasn’t just a journey of success. It was a journey of facing frustration head-on — and learning to move forward anyway.”
 
 ## Confidence & Growth
 
